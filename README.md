@@ -1,7 +1,7 @@
 # C-plus-plus
 10 Collections of 10 Programs written in C++
 
-<pre> 1. Sorting Algorithms
+<pre>Sorting Algorithms
 ---------------------------
 Sorting Algorithms built in C++
 

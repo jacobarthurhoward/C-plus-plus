@@ -3,5 +3,5 @@
 
 
 1. Sorting Algorithms
-  1.1. Insertion Sort
-  1.2. Bubble Sort
+  1. Insertion Sort
+  2. Bubble Sort

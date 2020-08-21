@@ -37,10 +37,6 @@ Author: Jacob Arthur Howard
 3.    Best First Search
 4.    Breadth-First Graph Search
 5.    Breadth-First Tree Search
-6.    Depth-First Graph Search
-7.    Depth-First Tree Search
-8.    Uniform Cost Graph Search (dijkstra's algorithm)
-9.    Uniform Cost Tree Search (dijkstra's algorithm)
 </pre>
 
 
@@ -53,5 +49,4 @@ Author: Jacob Arthur Howard
 5.    Stack
 6.    Queue
 7.    Binary Tree
-8.    AVL Tree
 </pre>

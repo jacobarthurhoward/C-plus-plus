@@ -41,12 +41,17 @@ Author: Jacob Arthur Howard
 </pre>
 
 
-<pre>Hashing in C++
--------------------
-1.    Index Mapping
-2.    Separate Chaining for Collision Handling 
-3.    Open Addressing for Collision Handling
-4.    Double Hashing
+<pre>Graph Algorithm C++
+------------------------
+1.    Best-First Search
+2.    Breadth-First Search 
+3.    Depth-First Search
+4.    Greedy Algorithm
+5.    Uniform Cost Search (Dijkstra’s Algorithm)
+6.    Bellman-Ford Algorithm
+7.    Floyd Warshall Algorithm
+8.    Chutes & Ladders Problem
+9.    Traveling Salesman Problem
 </pre>
 
 

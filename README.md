@@ -11,7 +11,7 @@ Author: Jacob Arthur Howard
 6.    Quick Sort
 7.    Bucket Sort (Bin Sort)
 8.    Radix Sort + Count Sort
-9.   Heap Sort
+9.    Heap Sort
 </pre>
 
 
@@ -37,7 +37,7 @@ Author: Jacob Arthur Howard
 4.    Breadth-First Search
 5.    Depth-First Search
 6.    Uniform-Cost Search
-7.   A* Search
+7.    A* Search
 </pre>
 
 

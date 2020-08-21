@@ -1,5 +1,5 @@
 # C-plus-plus
-10 Collections of 10 Programs written in C++
+5 Collections of 10 Programs written in C++
 
 <pre>Sorting Algorithms in C++
 ------------------------------

@@ -1,6 +1,7 @@
 # C-plus-plus
 5 Collections of 10 Programs written in C++
 
+
 <pre>Sorting Algorithms in C++
 ------------------------------
 1.    Insertion Sort
@@ -15,6 +16,7 @@
 10.   Heap Sort
 </pre>
 
+
 <pre>Array Implementations in C++
 -------------------------------------------------
 1.    1D Array
@@ -27,6 +29,21 @@
 8.    Queue
 9.    Binary Tree
 10.   Matrix Representations
+</pre>
+
+
+<pre>Search Algorithms in C++
+------------------------------
+1.    Linear Search
+2.    Binary Search
+3.    Ubiqitous Binary Search
+4.    Jump Search
+5.    Interpolation Search
+6.    Sublist Search
+7.    Breadth-First Search
+8.    Depth-First Search
+9.    Uniform-Cost Search
+10.   A* Search
 </pre>
 
 
@@ -45,7 +62,7 @@
 </pre>
 
 
-<pre> Trees in C++
+<pre>Trees in C++
 ------------------
 1.    Binary Tree
 2.    Huffman Coding Trees
@@ -61,18 +78,4 @@
 12.   PD QuadTree
 13.   Other Point Data Structures
 14.   Other Spatial Data Structures
-</pre>
-
-<pre> Search Algorithms in C++
-------------------------------
-1.    Best First Search
-2.    Breadth First Search
-3.    Depth First Search
-4.    Iterative Deepening Search
-5.    Bidirectional Best First Search
-6.    Uniform Cost Search
-7.    Depth-Limited Search
-8.    Recursive Best First Search
-9.    AND-OR-GRAPH Search
-10.   Online Depth First Search Agent
 </pre>

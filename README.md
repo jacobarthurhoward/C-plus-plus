@@ -34,9 +34,10 @@ Author: Jacob Arthur Howard
 ------------------------------
 1.    Linear Search
 2.    Binary Search
-3.    Best First Search (not implemented yet)
-4.    Breadth-First Graph Search
-5.    Breadth-First Tree Search
+3.    Breadth-First Graph Search
+4.    Breadth-First Tree Search
+5.    Depth-First Graph Search
+6.    Depth-First Tree Search (not implemented yet)
 </pre>
 
 

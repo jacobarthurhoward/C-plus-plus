@@ -12,8 +12,7 @@
 6.    Quick Sort
 7.    Bucket Sort (Bin Sort)
 8.    Radix Sort + Count Sort
-9.    Tag Sort
-10.   Heap Sort
+9.   Heap Sort
 </pre>
 
 
@@ -28,7 +27,6 @@
 7.    Stack
 8.    Queue
 9.    Binary Tree
-10.   Matrix Representations
 </pre>
 
 
@@ -37,13 +35,10 @@
 1.    Linear Search
 2.    Binary Search
 3.    Ubiqitous Binary Search
-4.    Jump Search
-5.    Interpolation Search
-6.    Sublist Search
-7.    Breadth-First Search
-8.    Depth-First Search
-9.    Uniform-Cost Search
-10.   A* Search
+4.    Breadth-First Search
+5.    Depth-First Search
+6.    Uniform-Cost Search
+7.   A* Search
 </pre>
 
 
@@ -52,13 +47,19 @@
 1.    Singly Linked List
 2.    Doubly Linked List
 3.    Circular Linked List
-4.    Linked List Stack
-5.    Linked List Queue
-6.    Linked List Dictionary
-7.    Linked List Binary Tree
-8.    Linked List {ADD SOMETHING}
-9.    Linked List {ADD SOMETHING}
-10.   Linked List {ADD SOMETHING}
+4.    Stack
+5.    Queue
+6.    Dictionary
+7.    Binary Tree
+</pre>
+
+
+<pre>Hashing in C++
+-------------------
+1.    Index Mapping
+2.    Separate Chaining for Collision Handling 
+3.    Open Addressing for Collision Handling
+4.    Double Hashing
 </pre>
 
 

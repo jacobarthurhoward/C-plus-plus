@@ -9,7 +9,7 @@ Author: Jacob Arthur Howard
 3.    2D Array
 4.    2D Dynamic Array
 5.    3D Array
-6.    3D Dynamic Array
+6.    3D Dynamic Array (not implemented yet)
 7.    Stack
 8.    Queue
 9.    Binary Tree
@@ -34,7 +34,7 @@ Author: Jacob Arthur Howard
 ------------------------------
 1.    Linear Search
 2.    Binary Search
-3.    Best First Search
+3.    Best First Search (not implemented yet)
 4.    Breadth-First Graph Search
 5.    Breadth-First Tree Search
 </pre>
@@ -44,7 +44,7 @@ Author: Jacob Arthur Howard
 ---------------------------------------
 1.    Singly Linked List
 2.    Doubly Linked List
-3.    Singly Circular Linked List
+3.    Singly Circular Linked List (not implemented yet)
 4.    Doubly Circular Linked List
 5.    Stack
 6.    Queue

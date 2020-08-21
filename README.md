@@ -29,18 +29,6 @@ Author: Jacob Arthur Howard
 </pre>
 
 
-<pre>Search Algorithms in C++
-------------------------------
-1.    Linear Search
-2.    Binary Search
-3.    Ubiqitous Binary Search
-4.    Breadth-First Search
-5.    Depth-First Search
-6.    Uniform-Cost Search
-7.    A* Search
-</pre>
-
-
 <pre>Linked List Data structure Implementations in C++
 ------------------------------------------------------
 1.    Singly Linked List

@@ -1,7 +1,22 @@
 # Data Structures in C++
 Author: Jacob Arthur Howard
 
-<pre>Sorting Algorithms in C++
+
+<pre>Array Data Structure in C++
+--------------------------------
+1.    1D Array
+2.    1D Dynamic Array
+3.    2D Array
+4.    2D Dynamic Array
+5.    3D Array
+6.    3D Dynamic Array
+7.    Stack
+8.    Queue
+9.    Binary Tree
+</pre>
+
+
+<pre>Sort Algorithms in C++
 ------------------------------
 1.    Insertion Sort
 2.    Bubble Sort
@@ -15,29 +30,24 @@ Author: Jacob Arthur Howard
 </pre>
 
 
-<pre>Array Implementations in C++
--------------------------------------------------
-1.    1D Array
-2.    1D Dynamic Array
-3.    2D Array
-4.    2D Dynamic Array
-5.    3D Array
-6.    3D Dynamic Array
-7.    Stack
-8.    Queue
-9.    Binary Tree
+<pre>Search Algorithms in C++
+------------------------------
+1.    Linear Search
+2.    Binary Search
 </pre>
 
 
-<pre>Linked List Data structure Implementations in C++
-------------------------------------------------------
+<pre>Linked List Data structure in C++
+--------------------------------------
 1.    Singly Linked List
 2.    Doubly Linked List
 3.    Circular Linked List
-4.    Stack
-5.    Queue
-6.    Dictionary
-7.    Binary Tree
+4.    Dictionary
+5.    Something
+6.    Something
+7.    Stack
+8.    Queue
+9.    Binary Tree
 </pre>
 
 
@@ -52,23 +62,4 @@ Author: Jacob Arthur Howard
 7.    Floyd Warshall Algorithm
 8.    Chutes & Ladders Problem
 9.    Traveling Salesman Problem
-</pre>
-
-
-<pre>Trees in C++
-------------------
-1.    Binary Tree
-2.    Huffman Coding Trees
-3.    ADT Tree
-4.    K-ary Trees
-5.    Sequential Tree Implementation
-6.    Tree-Based Indexing
-7.    2-3 Trees
-8.    B-Trees
-9.    AVL Tree
-10.   Splay Tree
-11.   K-D Tree
-12.   PD QuadTree
-13.   Other Point Data Structures
-14.   Other Spatial Data Structures
 </pre>

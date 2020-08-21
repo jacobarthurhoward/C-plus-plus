@@ -48,9 +48,9 @@ Author: Jacob Arthur Howard
 ---------------------------------------
 1.    Singly Linked List
 2.    Doubly Linked List
-3.    Circular Linked List
-4.    Dictionary
-5.    Graph
+3.    Singly Circular Linked List
+4.    Doubly Circular Linked List
+5.    Dictionary
 6.    Stack
 7.    Queue
 8.    Binary Tree

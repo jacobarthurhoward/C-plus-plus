@@ -45,11 +45,9 @@ Author: Jacob Arthur Howard
 2.    Doubly Linked List
 3.    Circular Linked List
 4.    Dictionary
-5.    Something
-6.    Something
-7.    Stack
-8.    Queue
-9.    Binary Tree
+5.    Stack
+6.    Queue
+7.    Binary Tree
 </pre>
 
 

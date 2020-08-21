@@ -15,17 +15,17 @@
 10.   Heap Sort
 </pre>
 
-<pre>Array Data Structure Implementations in C++
+<pre>Array Implementations in C++
 -------------------------------------------------
 1.    1D Array
 2.    1D Dynamic Array
 3.    2D Array
 4.    2D Dynamic Array
-5.    Array List
-6.    Array Stack
-7.    Array Queue
-8.    Linear Indexing
-9.    Multilists
+5.    3D Array
+6.    3D Dynamic Array
+7.    Stack
+8.    Queue
+9.    Binary Tree
 10.   Matrix Representations
 </pre>
 

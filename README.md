@@ -54,10 +54,5 @@ Author: Jacob Arthur Howard
 1.    Best-First Search
 2.    Breadth-First Search 
 3.    Depth-First Search
-4.    Greedy Algorithm
-5.    Uniform Cost Search (Dijkstra’s Algorithm)
-6.    Bellman-Ford Algorithm
-7.    Floyd Warshall Algorithm
-8.    Chutes & Ladders Problem
-9.    Traveling Salesman Problem
+4.    Uniform Cost Search (Dijkstra’s Algorithm)
 </pre>

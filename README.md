@@ -44,13 +44,15 @@ Author: Jacob Arthur Howard
 </pre>
 
 
-<pre>Linked List Data structure in C++
---------------------------------------
+<pre>Linked List Data structures in C++
+---------------------------------------
 1.    Singly Linked List
 2.    Doubly Linked List
 3.    Circular Linked List
 4.    Dictionary
-5.    Stack
-6.    Queue
-7.    Binary Tree
+5.    Graph
+6.    Stack
+7.    Queue
+8.    Binary Tree
+9.    AVL Tree
 </pre>

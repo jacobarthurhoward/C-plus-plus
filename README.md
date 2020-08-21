@@ -50,9 +50,8 @@ Author: Jacob Arthur Howard
 2.    Doubly Linked List
 3.    Singly Circular Linked List
 4.    Doubly Circular Linked List
-5.    Dictionary
-6.    Stack
-7.    Queue
-8.    Binary Tree
-9.    AVL Tree
+5.    Stack
+6.    Queue
+7.    Binary Tree
+8.    AVL Tree
 </pre>

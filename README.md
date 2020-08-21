@@ -1,6 +1,5 @@
-# C-plus-plus
-5 Collections of 10 Programs written in C++
-
+# Data Structures in C++
+Author: Jacob Arthur Howard
 
 <pre>Sorting Algorithms in C++
 ------------------------------

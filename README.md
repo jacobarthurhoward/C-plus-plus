@@ -1,4 +1,4 @@
-# Introductory Computer Science Algorithms & Data Structures in C++
+# Intoduction to Computer Science Algorithms & Data Structures
 Author: Jacob Arthur Howard
 
 

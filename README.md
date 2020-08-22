@@ -34,10 +34,20 @@ Author: Jacob Arthur Howard
 ------------------------------
 1.    Linear Search
 2.    Binary Search
-3.    Breadth-First Graph Search
-4.    Breadth-First Tree Search Traversal
-5.    Depth-First Graph Search
-6.    Depth-First Tree Search Traversal
+</pre>
+
+
+<pre>Graph Algorithms in C++
+------------------------------
+1.    Breadth-First Search
+2.    Depth-First Search
+3.    Uniform-Cost Search (dijkstra)
+4.    Iterative Deepening Search
+5.    BiDirectional Search
+6.    A* Search
+7.    Kahn's Algorithm
+8.    Floyd-Warshall Algorithm
+9.    Traveling Salesman Problem (TSP)
 </pre>
 
 
@@ -50,4 +60,16 @@ Author: Jacob Arthur Howard
 5.    Stack
 6.    Queue
 7.    Binary Tree
+8.    Graph w/ Adjacency List
 </pre>
+
+<pre>Tree Algorithms in C++
+------------------------------
+1.    Breadth-First Traversal
+2.    Depth-First Traversal
+3.    MiniMax Algorithm
+4.    Alpha-Beta Search Algorithm
+5.    Constraint Satisfaction Problem (CSP)
+</pre>
+
+

@@ -2,6 +2,13 @@
 Author: Jacob Arthur Howard
 
 
+<pre>Search Algorithms in C++
+------------------------------
+1.    Linear Search
+2.    Binary Search
+</pre>
+
+
 <pre>Array Data Structure in C++
 --------------------------------
 1.    1D Array
@@ -30,10 +37,16 @@ Author: Jacob Arthur Howard
 </pre>
 
 
-<pre>Search Algorithms in C++
-------------------------------
-1.    Linear Search
-2.    Binary Search
+<pre>Linked List Data structures in C++
+---------------------------------------
+1.    Singly Linked List
+2.    Doubly Linked List
+3.    Singly Circular Linked List (not implemented yet)
+4.    Doubly Circular Linked List
+5.    Stack
+6.    Queue
+7.    Binary Tree
+8.    Graph w/ Adjacency List
 </pre>
 
 
@@ -50,18 +63,6 @@ Author: Jacob Arthur Howard
 9.    Traveling Salesman Problem (TSP)
 </pre>
 
-
-<pre>Linked List Data structures in C++
----------------------------------------
-1.    Singly Linked List
-2.    Doubly Linked List
-3.    Singly Circular Linked List (not implemented yet)
-4.    Doubly Circular Linked List
-5.    Stack
-6.    Queue
-7.    Binary Tree
-8.    Graph w/ Adjacency List
-</pre>
 
 <pre>Tree Algorithms in C++
 ------------------------------

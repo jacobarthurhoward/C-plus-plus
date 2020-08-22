@@ -35,9 +35,9 @@ Author: Jacob Arthur Howard
 1.    Linear Search
 2.    Binary Search
 3.    Breadth-First Graph Search
-4.    Breadth-First Tree Search
+4.    Breadth-First Tree Search Traversal
 5.    Depth-First Graph Search
-6.    Depth-First Tree Search
+6.    Depth-First Tree Search Traversal
 </pre>
 
 

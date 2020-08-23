@@ -6,6 +6,7 @@ Author: Jacob Arthur Howard
 ------------------------------
 1.    Linear Search
 2.    Binary Search
+\ MORE COMING SOON
 </pre>
 
 
@@ -46,6 +47,7 @@ Author: Jacob Arthur Howard
 5.    Stack
 6.    Queue
 7.    Binary Tree
+\ MORE COMING SOON
 </pre>
 
 
@@ -57,7 +59,8 @@ Author: Jacob Arthur Howard
 4.    Iterative Deepening Search
 5.    BiDirectional Search
 7.    Kahn's Algorithm
-\</pre>
+\ MORE COMING SOON
+</pre>
 
 
 <pre>Tree Algorithms in C++
@@ -66,6 +69,7 @@ Author: Jacob Arthur Howard
 2.    Depth-First Traversal
 3.    MiniMax Algorithm
 4.    Alpha-Beta Search Algorithm
+\ MORE COMING SOON
 </pre>
 
 

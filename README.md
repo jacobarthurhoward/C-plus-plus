@@ -1,8 +1,8 @@
-# Intoduction to Computer Science Using C++
+# Intoduction to Computer Science
 Author: Jacob Arthur Howard
 
-Reference Reading (C++):
------------------------
+Reference Reading:
+------------------
 <pre> Computer Science I & II
 
 http://dl.booktolearn.com/ebooks2/computer/programming/9781337117562_C_Programming_a222.pdf

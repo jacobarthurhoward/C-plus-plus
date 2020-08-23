@@ -1,21 +1,25 @@
 # Intoduction to Computer Science Using C++
 Author: Jacob Arthur Howard
 
-Reference Reading:
-------------------
+Reference Reading (C++):
+-----------------------
 <pre> Computer Science I & II
+
 http://dl.booktolearn.com/ebooks2/computer/programming/9781337117562_C_Programming_a222.pdf
 </pre>
 
 <pre> Programming Languages
+
 https://vulms.vu.edu.pk/Courses/CS508/Downloads/Concepts%20of%20Programming%20Languages%2011th%20Ed.pdf
 </pre>
 
 <pre> Data Structures & Algorithm Analysis I
+
 https://people.cs.vt.edu/shaffer/Book/C++3elatest.pdf
 </pre>
 
 <pre> Data Structures & Algorithm Analysis II
+
 https://edutechlearners.com/download/Introduction_to_algorithms-3rd%20Edition.pdf
 </pre>
 

@@ -56,20 +56,26 @@ Author: Jacob Arthur Howard
 1.    Breadth-First Search
 2.    Depth-First Search
 3.    Uniform-Cost Search (dijkstra)
-4.    Iterative Deepening Search
-5.    BiDirectional Search
-7.    Kahn's Algorithm
-\ MORE COMING SOON
+4.    BiDirectional Search
+5.    Kahn's Algorithm
+6.    Kruskal's Algorithm
+7.    Bellman-Ford's Algorithm
+8.    Floyd-Warshall's Algorithm
+9.    Johnson's Algorithm
 </pre>
 
 
 <pre>Tree Algorithms in C++
 ------------------------------
-1.    Breadth-First Traversal
-2.    Depth-First Traversal
-3.    MiniMax Algorithm
-4.    Alpha-Beta Search Algorithm
-\ MORE COMING SOON
+1.    Binary Tree
+2.    Breadth-First Traversal
+3.    Depth-First Traversal
+4.    MiniMax Algorithm
+5.    Alpha-Beta Search Algorithm
+6.    Red-Black Tree
+7.    Huffman Coding Trees or K-Ary Trees
+8.    B-Tree
+9.    AVL Tree
 </pre>
 
 

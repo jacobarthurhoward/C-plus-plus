@@ -1,17 +1,23 @@
 # Intoduction to Computer Science Using C++
 Author: Jacob Arthur Howard
 
-Computer Science Curriculum for C++:
-------------------------------------
-
+Reference Reading:
+------------------
+<pre> Computer Science I & II
 [C++ Programming (8ed)](http://dl.booktolearn.com/ebooks2/computer/programming/9781337117562_C_Programming_a222.pdf)
+</pre>
 
-[Data Structures & Algorithm Analysis in C++ (3ed)](https://people.cs.vt.edu/shaffer/Book/C++3elatest.pdf)
-
+<pre> Programming Languages
 [Concepts of Programming Languages (11ed)](https://vulms.vu.edu.pk/Courses/CS508/Downloads/Concepts%20of%20Programming%20Languages%2011th%20Ed.pdf)
+</pre>
 
+<pre> Data Structures & Algorithm Analysis I
+[Data Structures & Algorithm Analysis in C++ (3ed)](https://people.cs.vt.edu/shaffer/Book/C++3elatest.pdf)
+</pre>
+
+<pre> Data Structures & Algorithm Analysis II
 [Introduction to Algorithms (3ed)](https://edutechlearners.com/download/Introduction_to_algorithms-3rd%20Edition.pdf)
-
+</pre>
 
 
 <pre>Search Algorithms in C++

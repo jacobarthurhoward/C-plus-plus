@@ -46,7 +46,6 @@ Author: Jacob Arthur Howard
 5.    Stack
 6.    Queue
 7.    Binary Tree
-8.    Graph w/ Adjacency List
 </pre>
 
 
@@ -57,11 +56,8 @@ Author: Jacob Arthur Howard
 3.    Uniform-Cost Search (dijkstra)
 4.    Iterative Deepening Search
 5.    BiDirectional Search
-6.    A* Search
 7.    Kahn's Algorithm
-8.    Floyd-Warshall Algorithm
-9.    Traveling Salesman Problem (TSP)
-</pre>
+\</pre>
 
 
 <pre>Tree Algorithms in C++
@@ -70,7 +66,6 @@ Author: Jacob Arthur Howard
 2.    Depth-First Traversal
 3.    MiniMax Algorithm
 4.    Alpha-Beta Search Algorithm
-5.    Constraint Satisfaction Problem (CSP)
 </pre>
 
 
